@@ -5,15 +5,13 @@
   "version": "0.0.1",
 
   "description": "工具栏按钮, 弹窗中包含计算器",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "homepage_url": "https://github.com/nobodxbodon/suan1",
   "icons": {
     "48": "图标/算-48.png",
     "96": "图标/算-96.png"
   },
 
-  "permissions": [
-    "activeTab"
-  ],
+  "permissions": [],
 
   "browser_action": {
     "default_icon": "图标/算-32.png",
