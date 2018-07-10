@@ -1,0 +1,24 @@
+{
+
+  "manifest_version": 2,
+  "name": "算一",
+  "version": "0.0.1",
+
+  "description": "工具栏按钮, 弹窗中包含计算器",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "icons": {
+    "48": "图标/算-48.png",
+    "96": "图标/算-96.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "图标/算-32.png",
+    "default_title": "算一",
+    "default_popup": "弹窗/主界面.html"
+  }
+
+}
