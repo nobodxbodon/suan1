@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "算一",
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "description": "工具栏按钮, 弹窗中包含计算器",
   "homepage_url": "https://github.com/nobodxbodon/suan1",
