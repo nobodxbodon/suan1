@@ -4,7 +4,7 @@
  */
 function 四舍五入(数, 精度) {
   精度 = Math.pow(10, 精度)
-  return Math.ceil(数 * 精度) / 精度
+  return Math.round(数 * 精度) / 精度
 }
 
 function 延迟(毫秒) {
